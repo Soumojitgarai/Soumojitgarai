@@ -46,7 +46,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
-![Leetcode Stats](https://leetcard.jacoblin.cool/ankittojha)
+<!![Leetcode Stats](https://leetcard.jacoblin.cool/ankittojha)>
 ---
 
 <p align="center">
