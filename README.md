@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Soumojitgarai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
-<h1 align="center">👋 Hello, I'm Ankit Ojha!</h1>
+<h1 align="center">👋 Hello, I'm Soumojit Garai</h1>
 <h3 align="center">Developer | Working on <a href="https://twitter.com/codewithcoffee_">CodeWithCoffee</a> | Creator of <a href="https://www.youtube.com/@AnkitOjhacoding">Ankit Ojha Coding</a></h3>
 
 ---
