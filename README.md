@@ -58,9 +58,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitojha07&theme=radical&no-frame=false&no-bg=false&margin-w=4">
-</p>
-
-<p align="center">
   <img src="https://github.com/ankitojha07/ankitojha07/blob/output/github-contribution-grid-snake.gif">
 </p>
