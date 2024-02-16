@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://www.instagram.com/astudent_bigdreams?igsh=eXJ0bzR3N3V5YzV2><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/soumojit-garai-57a83824b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/Soumojit_Garai?t=F-9M3jme9DCx3S3ohobveg&s=08"><img src="https://img.shields.io/badge/X-#E60023.svg?logo=X&logoColor=white"></a>
+  <a href="https://x.com/Soumojit_Garai?t=F-9M3jme9DCx3S3ohobveg&s=08"><img src="https://img.shields.io/badge/X-%23E60023.svg?logo=X&logoColor=white"></a>
   <a href="https://youtube.com/@codewithcoffee_"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?logo=Facebook&logoColor=white"></a>
 </p>
 
