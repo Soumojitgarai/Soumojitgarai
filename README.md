@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hello, I'm Soumojit Garai</h1>
-<h3 align="center">Coder | studing BCA from IGNOU 
+<h3 align="center">Coder | Studing BCA from IGNOU 
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Backend Development, Javascript and AI
-- 🌱 I’m diving deep into **Web Development and Content Creation**
+- 🔭 I’m currently studing C , C++ , JAVA , Python, ( HTML, CSS, Java script)
+- 🌱 I’m diving deep into **SOFTWARE DESIGN , DATA ANALYSIS & WEB DEVELOPMENT**
 - 💌 How to reach me: <a href="mailto:ankitojha1409@gmail.com">ankitojha1409@gmail.com</a>
 
 ---
