@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Soumojit Garai</h1>
-<h3 align="center">Developer | Working on <a href="https://twitter.com/codewithcoffee_">CodeWithCoffee</a> | Creator of <a href="https://www.youtube.com/@AnkitOjhacoding">Ankit Ojha Coding</a></h3>
+<h3 align="center">Coder | studing BCA from IGNOU 
 
 ---
 
