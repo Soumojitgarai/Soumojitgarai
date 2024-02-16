@@ -38,7 +38,7 @@
    
 ### Tools & Platforms:
 
-![VSCode](https://img.shields.io/ba\dge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 
 ---
        ![Leetcode Stats](https://leetcard.jacoblin.cool/ankittojha)
