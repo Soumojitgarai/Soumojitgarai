@@ -46,12 +46,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soumojitgarai&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitojha07&theme=dark&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumojitgarai&theme=dark&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumojitgarai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/ankitojha07/ankitojha07/blob/output/github-contribution-grid-snake.gif">
+  <img src="https://github.com/ankitojha07/soumojitgarai/blob/output/github-contribution-grid-snake.gif">
 </p>
