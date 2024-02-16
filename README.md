@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studing C , C++ , JAVA , Python, ( HTML, CSS, Java script)
 - 🌱 I’m diving deep into **SOFTWARE DESIGN , DATA ANALYSIS & WEB DEVELOPMENT**
-- 💌 How to reach me: <a href="mailto:Soumojitg@protonmail.com">Soumojitg@protonmail.com</a>
+- 💌 How to reach me: <a href="mailto:Soumojitg@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 
 ---
 
