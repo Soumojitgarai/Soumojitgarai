@@ -24,17 +24,20 @@
       ![Leetcode Stats](https://leetcard.jacoblin.cool/ankittojha)
       
 ---
-
+<p align="center">
 <table align="center">
   <tr>
     <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=soumojitgarai&theme=xcode&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=soumojitgarai&show_icons=true&theme=dark&locale=en"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumojitgarai&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
+    <td align="center"><a href="http://www.github.com/soumojitgarai"><img src="https://github-readme-stats.vercel.app/api?username=soumojitgarai&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=6366f1&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="soumojitgarai's GitHub stats" /></a>
+</td>
+    <td align="center"><a href="http://www.github.com/soumojitgarai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=soumojitgarai&stroke=6366f1&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=6366f1&currStreakLabel=0891b2&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
+</td>
+ <td align="center"><a href="http://www.github.com/soumojitgarai"><a href="https://github.com/soumojitgarai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumojitgarai&langs_count=10&title_color=0891b2&text_color=6366f1&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></td>
   </tr>
 </table>
-
+</p>
 
 | Language and Suite | Product and Framework |
 | :---: | :---: |
