@@ -19,7 +19,7 @@
  <a href="https://x.com/Soumojit_Garai?t=F-9M3jme9DCx3S3ohobveg&s=08"><img src="https://img.shields.io/badge/X-12100E?style=for-the-badge&logo=X&logoColor=whit"></a>
  <a href="https://youtube.com/@codewithcoffee_"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?logo=Facebook&logoColor=white"></a>
 <p align="center">
- <a href="https://www.leetcode.com/tapeshdua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tapeshdua" height="30" width="40" /></a>
+ <a href="https://www.leetcode.com/tapeshdua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumojitg" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tapeshdua420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tapeshdua420" height="30" width="40" /></a>
 </p>
 
