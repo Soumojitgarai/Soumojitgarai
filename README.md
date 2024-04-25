@@ -20,9 +20,8 @@
  <a href="https://youtube.com/@codewithcoffee_"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?logo=Facebook&logoColor=white"></a>
 </p>
 
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/soumojitg)
 
-      ![Leetcode Stats](https://leetcard.jacoblin.cool/ankittojha)
-      
 ---
 
 <table align="center">
