@@ -20,7 +20,7 @@
  <a href="https://youtube.com/@codewithcoffee_"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?logo=Facebook&logoColor=white"></a>
 <p align="center">
  <a href="https://www.leetcode.com/soumojitg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumojitg" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tapeshdua420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tapeshdua420" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="" height="30" width="40" /></a>
 </p>
 
 ---
