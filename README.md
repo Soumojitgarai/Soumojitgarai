@@ -25,7 +25,9 @@
  <a href="https://www.leetcode.com/soumojitg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumojitg" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="" height="30" width="40" /></a>
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
 ---
 
 <table align="center">
@@ -45,3 +47,4 @@
 | <img src = "https://img.shields.io/badge/Cloud-Page?style=flat&color=008bb9" height = 30px> | <img src = "https://img.shields.io/badge/Microsoft%20Azure-Page?style=flat&logo=microsoftazure&logoColor=white&color=0f80cc" height = 30px> <img src = "https://img.shields.io/badge/Cloudflare-Page?style=flat&logo=cloudflare&logoColor=white&color=E77A20" height = 30px> <img src = "https://img.shields.io/badge/Heroku-Page?style=flat&logo=heroku&logoColor=white&color=6762a6" height = 30px> <img src="https://img.shields.io/badge/Vercel-Page?style=flat&logo=vercel&logoColor=white&color=56676e" height=30px> |
 | <img src = "https://img.shields.io/badge/Database-Page?style=flat&color=008bb9" height = 30px> | <img src = "https://img.shields.io/badge/MySQL-Page?style=flat&logo=mysql&logoColor=white&color=0f80cc" height = 30px> <img src = "https://img.shields.io/badge/SQLite-Page?style=flat&logo=sqlite&logoColor=white&color=0f80cc" height = 30px> <img src = "https://img.shields.io/badge/MongoDB-Page?style=flat&logo=mongodb&logoColor=white&color=4db33d" height = 30px> |
 | <img src = "https://img.shields.io/badge/Utility-Page?style=flat&color=008bb9" height = 30px> |<img src = "https://img.shields.io/badge/Git-Page?style=flat&logo=git&logoColor=white&color=F1502F" height = 30px> <img src = "https://img.shields.io/badge/Github-Page?style=flat&logo=github&logoColor=white&color=8d028d" height = 30px> <img src = "https://img.shields.io/badge/Postman-Page?style=flat&logo=postman&logoColor=white&color=F26634" height = 30px> <img src="https://img.shields.io/badge/FileZilla-Page?style=flat&logo=filezilla&logoColor=white&color=bc0000" height=30px> <img src="https://img.shields.io/badge/WSL-Page?style=flat&logo=windows&logoColor=white&color=0f80cc" height=30px> <img src = "https://img.shields.io/badge/VSCode-Page?style=flat&logo=visualstudiocode&logoColor=white&color=008bb9" height = 30px> <img src = "https://img.shields.io/badge/Replit-Page?style=flat&logo=replit&logoColor=white&color=56676e" height = 30px> |
+
